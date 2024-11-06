@@ -1,0 +1,1 @@
+This repository it's only for Ubuntu Desktop
